@@ -1,4 +1,4 @@
-# Smart-garden-
+# arduino-hydroponic-automation-
 
 Teknologi Smart Garden merupakan sistem manajemen tanaman otomatis yang memberikan solusi untuk memantau kondisi tanaman seperti unsur hara, kelembaban tanah, dan tingkat kelembaban tanah. Penggunaan utama
 Keunggulan taman yang asri adalah otomatis menyiram sesuai kebutuhan tanaman. Yang perlu diperhatikan adalah ketinggian dan kebutuhan air harus sesuai dengan kebutuhan tanaman. Salah satu indikator yang dapat menjadi acuan penataan taman yang indah adalah kelembaban tanah. Karena kelembaban tanah, kita bisa mengetahui kapan waktu yang tepat untuk menanam dan kapan waktu yang tidak tepat untuk menanam. Untuk mengatasi permasalahan tersebut perlu diciptakan teknologi modern sebagai alat untuk memantau dan mengendalikan perawatan pohon khususnya dalam hal penyiraman dan setiap orang (pegawai). 
